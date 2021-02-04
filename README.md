@@ -6,6 +6,9 @@ This keyboard is adjusted the Esrille new keyboard NISSE for me
 
 ## Required Parts
 
+- Plates
+  - plate/top.dxf
+  - plate/bottom.dxf
 - KeySwitch (MX compatible) x66
 - KeyCaps x66
 - Pro Micro x2
